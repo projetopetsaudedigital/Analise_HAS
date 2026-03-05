@@ -1,0 +1,1 @@
+Pasta destinada a colocar os dados em csv do banco.
